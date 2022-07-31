@@ -6,6 +6,7 @@
 <img width="459" alt="image" src="https://user-images.githubusercontent.com/110332908/182022567-033d0c32-a4c7-435a-a66c-12b50014ea11.png">
 
 输入appid和key
+
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/110332908/182022574-ace9377f-772a-466c-aa52-1b004a8f8001.png">
 
 然后就可以选择文件翻译了
